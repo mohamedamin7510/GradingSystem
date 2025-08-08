@@ -19,10 +19,10 @@ This repository contains a simple .NET (C#) application that determines whether 
 
 ### Installation & Usage
 
-git clone https://github.com/mohamedamin7510/GradingSystem.git
-cd GradingSystem
-dotnet build
-dotnet run
+- git clone https://github.com/mohamedamin7510/GradingSystem.git
+- cd GradingSystem
+- dotnet build
+- dotnet run
 
 ---
 ## How It Works
