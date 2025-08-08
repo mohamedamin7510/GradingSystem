@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "1tKMkr8WrfI=",
+  "success": true,
+  "projectFilePath": "D:\\SWProject_ERDandMapping\\Grading System_delegate\\GradingSystem\\GradingSystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LAPTOP WORLD\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "C:\\Users\\LAPTOP WORLD\\.nuget\\packages\\unity\\5.11.10\\unity.5.11.10.nupkg.sha512"
+  ],
+  "logs": []
+}
