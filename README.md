@@ -18,7 +18,7 @@ This repository contains a simple .NET (C#) application that determines whether 
 - .NET SDK installed (e.g., .NET 6 or newer)
 
 ### Installation & Usage
-```bash
+
 git clone https://github.com/mohamedamin7510/GradingSystem.git
 cd GradingSystem
 dotnet build
